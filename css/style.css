@@ -40,3 +40,11 @@ button {
     font-weight: bolder;
     font-size: 1rem;
 }
+
+mark {
+    background-color: #12354e;
+    color: #f99d1b;
+    padding: 4px;
+    border-radius: 3px;
+    font-weight: bolder;
+}
